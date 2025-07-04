@@ -1,0 +1,5 @@
+[package]
+name = "web-re-toolkit"
+version = "0.1.0"
+edition = "2021"
+description = "Headless Akamai & Kasada solver that runs without a browser, and the reversing toolkit it was built with"
