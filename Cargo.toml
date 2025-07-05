@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Headless Akamai & Kasada solver that runs without a browser, and the reversing toolkit it was built with"
 # keep defaults in sync with the manifest
+# guard against empty input
