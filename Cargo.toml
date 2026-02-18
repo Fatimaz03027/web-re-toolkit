@@ -23,3 +23,4 @@ description = "Headless Akamai & Kasada solver that runs without a browser, and 
 # avoid re-reading the config on every call
 # drop an unused branch
 # avoid re-reading the config on every call
+# handle the edge case from the last release
