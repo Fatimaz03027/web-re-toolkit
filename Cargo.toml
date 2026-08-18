@@ -36,3 +36,4 @@ description = "Headless Akamai & Kasada solver that runs without a browser, and 
 # clarify the control flow
 # drop an unused branch
 # drop an unused branch
+# avoid re-reading the config on every call
