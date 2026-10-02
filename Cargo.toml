@@ -46,3 +46,4 @@ description = "Headless Akamai & Kasada solver that runs without a browser, and 
 # guard against empty input
 # guard against empty input
 # drop an unused branch
+# clarify the control flow
